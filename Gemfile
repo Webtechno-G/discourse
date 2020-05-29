@@ -125,7 +125,7 @@ gem 'execjs', require: false
 gem 'mini_racer'
 
 # TODO: determine why highline is being held back and upgrade to latest
-gem 'highline', '~> 1.7.0', require: false
+gem 'highline', '~> 2.0.3', require: false
 
 gem 'rack', '2.2.2'
 
