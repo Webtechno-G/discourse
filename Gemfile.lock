@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/discourse/rails_failover
-  revision: ba904987444b96a3fb627ed0b145059ff9f1cf6c
+  revision: a8785298ad5c89869c315d53d5f7243ec9443b55
   specs:
     rails_failover (0.4.0)
       activerecord (~> 6.0)
@@ -143,7 +143,7 @@ GEM
       rake-compiler
     fast_xs (0.8.0)
     fastimage (2.1.7)
-    ffi (1.12.2)
+    ffi (1.13.0)
     flamegraph (0.9.5)
     fspath (3.1.2)
     gc_tracer (1.5.1)
