@@ -1,10 +1,9 @@
 GIT
   remote: https://github.com/discourse/rails_failover
-  revision: ba904987444b96a3fb627ed0b145059ff9f1cf6c
+  revision: 831f718f0ea7f402696891e93ffbb8d5443abfcc
   specs:
-    rails_failover (0.4.0)
+    rails_failover (0.5.0)
       activerecord (~> 6.0)
-      listen (~> 3.2)
       railties (~> 6.0)
 
 GEM
@@ -143,7 +142,7 @@ GEM
       rake-compiler
     fast_xs (0.8.0)
     fastimage (2.1.7)
-    ffi (1.12.2)
+    ffi (1.13.1)
     flamegraph (0.9.5)
     fspath (3.1.2)
     gc_tracer (1.5.1)
@@ -156,7 +155,7 @@ GEM
     hkdf (0.3.0)
     htmlentities (4.3.4)
     http_accept_language (2.1.1)
-    i18n (1.8.2)
+    i18n (1.8.3)
       concurrent-ruby (~> 1.0)
     image_size (1.5.0)
     in_threads (1.5.4)
